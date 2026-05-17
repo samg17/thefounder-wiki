@@ -1,11 +1,12 @@
 ---
-title: Wiki Index
+title: Wiki Index (English)
 updated: 2024-01-01
 ---
 
-# Index
+# Index — English
 
 > Updated by the LLM on every ingest. Read this file first when answering queries.
+> For Portuguese version see `wiki/pt/index.md`
 
 ---
 
@@ -14,8 +15,8 @@ updated: 2024-01-01
 | Page | Description |
 |---|---|
 | [[porter-5-forces]] | Attractiveness and competitive dynamics of a market |
-| [[jobs-to-be-done]] | Framework for understanding what the customer is really hiring your product to do |
-| [[tam-sam-som]] | Methodology for estimating and validating market size |
+| [[jobs-to-be-done]] | What the customer is really hiring your product to do |
+| [[tam-sam-som]] | Estimating and validating market size |
 
 ## Guardrails
 
@@ -30,19 +31,11 @@ updated: 2024-01-01
 | Page | Description |
 |---|---|
 | [[unit-economics]] | CAC, LTV, margins, payback and how to interpret them |
-| [[product-market-fit]] | What PMF is, how to measure it, and signals that you don't have it yet |
+| [[product-market-fit]] | What PMF is and how to measure it |
 | [[icp]] | Ideal Customer Profile — how to define and refine it |
 
 ## Entities
-
-*Empty — populated as the user ingests sources about specific markets.*
+*Empty — populated as you ingest sources about specific markets.*
 
 ## Syntheses
-
-*Empty — populated as the user asks valuable queries.*
-
----
-
-## Log
-
-See [[log]] for the chronological history of ingests and operations.
+*Empty — populated as you ask valuable queries.*
