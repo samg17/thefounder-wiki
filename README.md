@@ -2,7 +2,7 @@
 
 A structured knowledge base for founders — market research, business analysis, and decision-making frameworks. Comes pre-populated with guardrails, frameworks (Porter, JTBD, TAM/SAM/SOM), and concepts (CAC, LTV, ICP, PMF). Add your own sources and use an LLM to grow the knowledge base over time.
 
-Instead of running RAG over raw documents on every question, an LLM **builds and maintains a persistent wiki** — a structured, interlinked collection of Markdown files that gets richer with every source you add and every question you ask.
+Instead of running RAG over raw documents on every question, an LLM **builds and maintains a persistent wiki** — a structured, interlinked collection of Markdown files that gets richer with every source you add and every question you ask. This strucure is based on Karpathy Wiki LM, thank you!!!! As not developer, I built this to learn how  to use github better, to learn how to publish a public repo and connect the dots.
 
 ---
 
